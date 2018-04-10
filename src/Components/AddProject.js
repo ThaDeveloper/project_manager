@@ -53,8 +53,8 @@ class AddProject extends Component {
   }
 }
 AddProject.propTypes = {
-  categories: React.PropTypes.array,
-  addProject: React.PropTypes.func
+  categories: PropTypes.array,
+  addProject: PropTypes.func
 }
 
 
